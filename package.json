@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "restify": "2.8.5",
+    "redis": "*"
+  }
+}
